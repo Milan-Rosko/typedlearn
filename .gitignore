@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Local datasets (not redistributed)
+gzip/
+
+# Generated outputs
+artifacts/
+
+# Jupyter noise
+.ipynb_checkpoints/
