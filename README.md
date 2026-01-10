@@ -9,7 +9,7 @@ Milan-Rosko / typedrepair
 
 ```
 
-is the companion implementation for the accompanying paper (arXiv):
+is the companion implementation for the accompanying paper (draft):
 
 ```
 
