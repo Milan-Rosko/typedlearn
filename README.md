@@ -2,31 +2,9 @@
 
 provides the executable, semantics-locked finitary learning pipeline.
 
-Author: Milan Rosko (www.milanrosko.com)
-E-mail: Q1012878 at studium.fernuni-hagen.de
-
-Core tutorial and information:
+Information:
 
 http://milanrosko.com/typedrepair.html
-
-This repository,
-
-```
-
-Milan-Rosko / typedrepair
-
-```
-
-is the companion implementation for the accompanying paper (manuscript draft):
-
-```
-
-TYPED REPAIR: EMNIST FROM λ-DEFINABLE EVALUATION AND SPECIALIZATION GATE
-
-```
-
-pdf: http://milanrosko.com/aux/typedrepair.pdf
-
 
 ## 1 Overview
 
