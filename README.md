@@ -239,7 +239,7 @@ and cite EMNIST:
 ```latex
 @article{cohen2017emnist,
   title        = {EMNIST: an extension of MNIST to handwritten letters},
-  author       = {Cohen, G, and Afshar, S, and Tapson, J, and van Schaik, A,},
+  author       = {Cohen, G. and Afshar, S. and Tapson, J. and van Schaik, A.},
   year         = 2017,
   bit          = {arXiv preprint arXiv:1702.05373}
 }
